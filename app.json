@@ -1,6 +1,6 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @MaxxBots",
+  "name": "Telegram Leecher",
+  "description": "A Telegram (and youtube-dl) Leecher based on Pyrogram. Powered by @awsmirrorzone",
   "logo": "https://telegra.ph/file/101a7d52e02772152c6e3.jpg",
   "keywords": [
     "telegram"
